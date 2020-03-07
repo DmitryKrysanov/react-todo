@@ -1,0 +1,12 @@
+.app-header {
+    align-items: flex-end;
+    justify-content: space-between;
+}
+.app-header h1 {
+    color: black;
+}
+
+.app-header h3 {
+    font-size: 1.25rem;
+    color: gray;
+}

@@ -1,0 +1,21 @@
+.todo-list-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo-list-item .item-buttons button {
+    width: 40px;
+}
+.todo-list-item .item-buttons button:first-child {
+    margin-right: 10px;
+}
+
+.done {
+    text-decoration: line-through;
+    color: gray;
+}
+
+.important {
+    font-weight: bold;
+    color: steelblue;
+}
